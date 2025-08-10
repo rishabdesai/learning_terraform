@@ -8,7 +8,7 @@
 
 - write provider and resource in ec2.tf file and give module reference in main.tf file for ec2.tf
 
-#### t002 Create EC2 instance and install docker in it.
+#### t003 Create EC2 instance and install docker in it.
 
 - main.tf
     - Variables
@@ -18,5 +18,12 @@
     - contains variables and their values.
 
 ![img](t003_ec2_add_docker/img_t003.png)
+
+#### t004 VPC using feature "EC2 and more"
+
+- Create only the VPC resource or the VPC and other networking resources.
+
+![img](t004_VPC_using_EC2andMore/img_t004.png)
+
 
 
