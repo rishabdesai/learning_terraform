@@ -23,7 +23,7 @@
 
 - Create only the VPC resource or the VPC and other networking resources.
 
-![img](t004_VPC_using_EC2andMore/img_t004.png)
+![img](t004_VPC_using_EC2andMore/img_t004a.png)
 
 
 
